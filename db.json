@@ -1,0 +1,37 @@
+{
+  "dirs": [
+    {
+      "title": "diary",
+      "size": "100",
+      "children": [
+        {
+          "title": "chapt 1",
+          "size": "100",
+          "children": [
+            {
+              "title": "begin",
+              "extension": "text",
+              "size": "10",
+              "id": "1",
+              "content": "111111111111111"
+            },
+            {
+              "title": "main",
+              "extension": "text",
+              "size": "20",
+              "id": "2",
+              "content": "222222222222222"
+            },
+            {
+              "title": "end",
+              "extension": "text",
+              "size": "10",
+              "id": "3",
+              "content": "3333333333333"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
