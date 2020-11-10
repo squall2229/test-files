@@ -1,5 +1,6 @@
 {
   "name": "test-files",
+  "homepage": "http://squall2229.github.io/test-files",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,7 +24,6 @@
     "styled-components": "^5.2.1",
     "typescript": "^4.0.5",
     "web-vitals": "^0.2.4",
-    "homepage": "http://squall2229.github.io/test-files"
   },
   "scripts": {
     "start": "react-scripts start",
